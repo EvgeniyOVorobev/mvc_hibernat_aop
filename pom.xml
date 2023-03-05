@@ -4,7 +4,11 @@
   <groupId>com.ev.spring.mvc</groupId>
   <artifactId>mvc_hibernat_aop</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+    <version>1.0-SNAPSHOT</version>
   <name>mvc_hibernat_aop Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
