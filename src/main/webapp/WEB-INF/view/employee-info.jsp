@@ -13,6 +13,7 @@
 <h2>Employee info</h2>
 <br>
 <form:form action="saveemp" modelAttribute="employee">
+  <form:hidden path="id"/>
   Name <form:input path="name"/>
   <br>
   Surname <form:input path="surname"/>
