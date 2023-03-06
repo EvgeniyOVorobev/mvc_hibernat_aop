@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd233ee0-a9cc-4c4c-a795-cc4ac469a9ac" name="Changes" comment="+ button &quot;Add&quot;">
+    <list default="true" id="bd233ee0-a9cc-4c4c-a795-cc4ac469a9ac" name="Changes" comment="+ button &quot;UpDate&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/controller/MyController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/dao/EmployeeDAO.java" afterDir="false" />
@@ -17,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/service/EmployeeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ev/spring/mvc_hibernate_aop/entity/service/EmployeeServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,7 @@
       <updated>1678027597240</updated>
       <workItem from="1678027598520" duration="6661000" />
       <workItem from="1678038468454" duration="2128000" />
-      <workItem from="1678100708968" duration="4080000" />
+      <workItem from="1678100708968" duration="5826000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1678029481320</created>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678040603021</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ button &quot;UpDate&quot;">
+      <created>1678111985132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678111985132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +234,7 @@
     <MESSAGE value="show jsp" />
     <MESSAGE value="+@Service" />
     <MESSAGE value="+ button &quot;Add&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ button &quot;Add&quot;" />
+    <MESSAGE value="+ button &quot;UpDate&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ button &quot;UpDate&quot;" />
   </component>
 </project>
